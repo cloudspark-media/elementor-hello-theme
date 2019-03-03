@@ -2,7 +2,8 @@
 
 
 
-**Contributors:** [elemntor](https://profiles.wordpress.org/elemntor), [stevehardaway](https://www.stevehardaway.com)
+**Contributors:** [elemntor](https://profiles.wordpress.org/elemntor), [cloudspark-media](https://www.cloudsparkmedia.com)
+
 **Requires at least:** WordPress 4.7  
 **Tested up to:** WordPress 5.0  
 **Stable tag:** 1.2.0  
